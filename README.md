@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YhonLimon
+- 👀 I’m interested in education.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on augmented reality.
+- 📫 How to reach me: jhon.silva@usach.cl
